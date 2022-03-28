@@ -17,10 +17,10 @@ baseurl: "/user/kluckow"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Kasper Luckow
+title: Elena Petrovskaya
 
 # Short description of your site
-description: Academic website
+description: PhD researcher in addictive digital game design
 
 # --- Navigation bar options --- #
 
@@ -29,7 +29,7 @@ navbar-links:
   # Links: "links"
   Home: ""
   Publications: "publications"
-  Projects: "projects"
+  Projects: "Projects"
   #  Contact: "contact"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
